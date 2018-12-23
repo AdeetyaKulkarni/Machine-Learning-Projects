@@ -1,2 +1,0 @@
-Multivariate linear regression using both Gradient descent and Normal equation methods. The hyperparameters alpha(leanring rate) and the
-number of iterations can be varied to experiment.  
