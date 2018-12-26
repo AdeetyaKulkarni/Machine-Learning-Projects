@@ -1,3 +1,11 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Name: Adeetya P Kulkarni                               %
+% Dataset - Breast Cancer Wisconsin (Diagnostic)         %  
+% Logistic regression multivariate(n>3 features)         %
+%                                                        %
+%                                                        %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 data = dlmread('cdata.txt',',');
 
 x = data(:,2:size(data,2)-1); %radius and texture
