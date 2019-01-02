@@ -1,1 +1,3 @@
-IRIS Multiclass logistic regression using OneVsAll method.
+IriS Multiclass logistic regression using OneVsAll method.
+Iris Dataset UCI Machine Learning repositories
+https://archive.ics.uci.edu/ml/datasets/Iris
